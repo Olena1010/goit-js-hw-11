@@ -1,4 +1,4 @@
-import './css/styles.css';
+import './sass/styles.css';
 import {fetchImg} from './js/fetchImages';
 import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
